@@ -1,2 +1,2 @@
 # cloud-developer
-content for Udacity's cloud developer nanodegree - December 2020
+content for Udacity's cloud developer nanodegree - taken December 2020
